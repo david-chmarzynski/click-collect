@@ -1,7 +1,7 @@
 const secret = {
-  USERNAME: "david",
-  PASSWORD: "Dv6Pl3ML11",
-  DATABASE: "ClickCollect"
+  USERNAME: "",
+  PASSWORD: "",
+  DATABASE: ""
 };
 
 module.exports = secret;
